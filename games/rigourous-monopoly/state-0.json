@@ -1,0 +1,207 @@
+{
+    "teams": [
+        {
+            "id": "f0e00143-00b1-4d21-9b3a-ef06c3bd73d0",
+            "coffer": 6570,
+            "position": 6,
+            "owned": [
+                "dc4ce1f6-6186-4506-9038-ca5b34cefb50",
+                "50f7740b-1e48-4662-bda5-fb19d64f8506",
+                "914a38a4-460f-4950-ad31-5af41fcae642",
+                "5baa79d5-e34f-4e12-a1d2-7b76dfea571d",
+                "24833865-46d0-4079-9f1c-220895397653",
+                "3ad4a9e1-2bf7-478f-9bdc-c968f74a35fa",
+                "818d662a-d466-4bf9-9efa-60a6af24739c",
+                "ea00211b-be8b-40de-b551-bc3111eacf8b"
+            ]
+        },
+        {
+            "id": "f90ca37a-c1f5-4860-96f2-82048ad605b4",
+            "coffer": 9235,
+            "position": 34,
+            "owned": [
+                "f466cd53-17d2-4545-8a81-2f6caca1b7a5",
+                "286cc5f2-ec34-44a7-a124-a3b00d1cbf6a",
+                "29b1736b-1d72-4587-808c-8507cb62fe98",
+                "1c06810b-58cf-4a86-b5e7-4238de1ff6ae",
+                "1a56a4d6-e132-4d67-996e-a74ad4faaa54",
+                "fbdea0b2-d9e3-4cdd-96d7-618725a9bce5"
+            ]
+        },
+        {
+            "id": "5afa598a-fb3a-4cf7-be77-4d300c867012",
+            "coffer": 9510,
+            "position": 27,
+            "owned": [
+                "94013f98-0769-4753-9a43-2287c75ab5fd",
+                "56f03576-1b25-4770-9006-3f7a6dbe1e9c",
+                "230cca81-1f96-467b-a013-f3b0b1a3e44c"
+            ]
+        },
+        {
+            "id": "6d1ed9e5-c2f2-4e7e-a889-f5267ede8324",
+            "coffer": 2480,
+            "position": 11,
+            "owned": [
+                "336e3e39-ffa2-496b-bcc1-3c278e1652bf",
+                "cf9b1d11-e92b-4cd0-bac6-a82aac77f276",
+                "82289737-8390-40bd-82b9-196717998132",
+                "35e157a5-22d6-482a-8fdb-f47bb571846f"
+            ]
+        },
+        {
+            "id": "a38b5974-3781-4359-8842-f67dcd6305e0",
+            "coffer": 8590,
+            "position": 23,
+            "owned": [
+                "e0a31dcd-d963-4c04-bccd-555d15d9f3cc",
+                "71540791-e612-4fe8-8747-2c9750cbad46",
+                "f6ca4c23-8fd5-44d2-bb07-1305fb4bc196",
+                "0e7c614e-23f6-47c6-aa38-7141f3dc34e8",
+                "3de0df15-10be-459a-8b87-63fcca37500d"
+            ]
+        }
+    ],
+    "tiles": [
+        {
+            "tier": 2,
+            "set": 1,
+            "id": "818d662a-d466-4bf9-9efa-60a6af24739c"
+        },
+        {
+            "tier": 2,
+            "set": 1,
+            "id": "71540791-e612-4fe8-8747-2c9750cbad46"
+        },
+        {
+            "tier": 0,
+            "set": 0,
+            "id": "6e070023-29ed-4c46-9842-d1301cefbead"
+        },
+        {
+            "tier": 2,
+            "set": 1,
+            "id": "1c06810b-58cf-4a86-b5e7-4238de1ff6ae"
+        },
+        {
+            "tier": 2,
+            "set": 1,
+            "id": "5baa79d5-e34f-4e12-a1d2-7b76dfea571d"
+        },
+        {
+            "tier": 2,
+            "set": 2,
+            "id": "94013f98-0769-4753-9a43-2287c75ab5fd"
+        },
+        {
+            "tier": 2,
+            "set": 2,
+            "id": "230cca81-1f96-467b-a013-f3b0b1a3e44c"
+        },
+        {
+            "tier": 3,
+            "set": 2,
+            "id": "56f03576-1b25-4770-9006-3f7a6dbe1e9c"
+        },
+        {
+            "tier": 1,
+            "set": 1.5,
+            "id": "fbdea0b2-d9e3-4cdd-96d7-618725a9bce5"
+        },
+        {
+            "tier": 1,
+            "set": 1,
+            "id": "5b72df44-cbdf-40ff-8d29-f6036d5bfb71"
+        },
+        {
+            "tier": 2,
+            "set": 1.5,
+            "id": "f466cd53-17d2-4545-8a81-2f6caca1b7a5"
+        },
+        {
+            "tier": 2,
+            "set": 1,
+            "id": "e0a31dcd-d963-4c04-bccd-555d15d9f3cc"
+        },
+        {
+            "tier": 3,
+            "set": 1,
+            "id": "29b1736b-1d72-4587-808c-8507cb62fe98"
+        },
+        {
+            "tier": 2,
+            "set": 1,
+            "id": "3ad4a9e1-2bf7-478f-9bdc-c968f74a35fa"
+        },
+        {
+            "tier": 2,
+            "set": 1.5,
+            "id": "24833865-46d0-4079-9f1c-220895397653"
+        },
+        {
+            "tier": 4,
+            "set": 1.5,
+            "id": "ea00211b-be8b-40de-b551-bc3111eacf8b"
+        },
+        {
+            "tier": 4,
+            "set": 1,
+            "id": "336e3e39-ffa2-496b-bcc1-3c278e1652bf"
+        },
+        {
+            "tier": 4,
+            "set": 2,
+            "id": "cf9b1d11-e92b-4cd0-bac6-a82aac77f276"
+        },
+        {
+            "tier": 4,
+            "set": 2,
+            "id": "82289737-8390-40bd-82b9-196717998132"
+        },
+        {
+            "tier": 4,
+            "set": 2,
+            "id": "35e157a5-22d6-482a-8fdb-f47bb571846f"
+        },
+        {
+            "tier": 5,
+            "set": 2,
+            "id": "286cc5f2-ec34-44a7-a124-a3b00d1cbf6a"
+        },
+        {
+            "tier": 5,
+            "set": 2,
+            "id": "1a56a4d6-e132-4d67-996e-a74ad4faaa54"
+        },
+        {
+            "tier": 3,
+            "set": 1,
+            "id": "3de0df15-10be-459a-8b87-63fcca37500d"
+        },
+        {
+            "tier": 2,
+            "set": 1,
+            "id": "dc4ce1f6-6186-4506-9038-ca5b34cefb50"
+        },
+        {
+            "tier": 1,
+            "set": 2,
+            "id": "914a38a4-460f-4950-ad31-5af41fcae642"
+        },
+        {
+            "tier": 3,
+            "set": 2,
+            "id": "f6ca4c23-8fd5-44d2-bb07-1305fb4bc196"
+        },
+        {
+            "tier": 1,
+            "set": 2,
+            "id": "50f7740b-1e48-4662-bda5-fb19d64f8506"
+        },
+        {
+            "tier": 2,
+            "set": 2,
+            "id": "0e7c614e-23f6-47c6-aa38-7141f3dc34e8"
+        }
+    ]
+}

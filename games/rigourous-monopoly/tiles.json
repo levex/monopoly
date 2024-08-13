@@ -1,0 +1,170 @@
+[
+    {
+        "name": "The Holy Trinity",
+        "revenue": 200,
+        "tiers": 3,
+        "id": "818d662a-d466-4bf9-9efa-60a6af24739c"
+    },
+    {
+        "name": "Pet Shop",
+        "revenue": 200,
+        "tiers": 3,
+        "id": "71540791-e612-4fe8-8747-2c9750cbad46"
+    },
+    {
+        "name": "Chambers of Xeric",
+        "revenue": 120,
+        "tiers": 3,
+        "id": "6e070023-29ed-4c46-9842-d1301cefbead"
+    },
+    {
+        "name": "The Stranglewood",
+        "revenue": 110,
+        "tiers": 3,
+        "id": "1c06810b-58cf-4a86-b5e7-4238de1ff6ae"
+    },
+    {
+        "name": "Forthos Dungeon",
+        "revenue": 110,
+        "tiers": 3,
+        "id": "5baa79d5-e34f-4e12-a1d2-7b76dfea571d"
+    },
+    {
+        "name": "Tombs of Amascut",
+        "revenue": 120,
+        "tiers": 3,
+        "id": "94013f98-0769-4753-9a43-2287c75ab5fd"
+    },
+    {
+        "name": "Al Kharid",
+        "revenue": 110,
+        "tiers": 3,
+        "id": "230cca81-1f96-467b-a013-f3b0b1a3e44c"
+    },
+    {
+        "name": "Sophanem",
+        "revenue": 110,
+        "tiers": 3,
+        "id": "56f03576-1b25-4770-9006-3f7a6dbe1e9c"
+    },
+    {
+        "name": "Theatre of Blood",
+        "revenue": 120,
+        "tiers": 3,
+        "id": "fbdea0b2-d9e3-4cdd-96d7-618725a9bce5"
+    },
+    {
+        "name": "Sisterhood Sanctuary",
+        "revenue": 110,
+        "tiers": 3,
+        "id": "5b72df44-cbdf-40ff-8d29-f6036d5bfb71"
+    },
+    {
+        "name": "Darkmeyer",
+        "revenue": 110,
+        "tiers": 3,
+        "id": "f466cd53-17d2-4545-8a81-2f6caca1b7a5"
+    },
+    {
+        "name": "Escape Caves",
+        "revenue": 80,
+        "tiers": 4,
+        "id": "e0a31dcd-d963-4c04-bccd-555d15d9f3cc"
+    },
+    {
+        "name": "Revenant Caves",
+        "revenue": 70,
+        "tiers": 4,
+        "id": "29b1736b-1d72-4587-808c-8507cb62fe98"
+    },
+    {
+        "name": "Ferox Enclave",
+        "revenue": 70,
+        "tiers": 4,
+        "id": "3ad4a9e1-2bf7-478f-9bdc-c968f74a35fa"
+    },
+    {
+        "name": "The Gauntlet",
+        "revenue": 60,
+        "tiers": 4,
+        "id": "24833865-46d0-4079-9f1c-220895397653"
+    },
+    {
+        "name": "Zul-Andra",
+        "revenue": 50,
+        "tiers": 4,
+        "id": "ea00211b-be8b-40de-b551-bc3111eacf8b"
+    },
+    {
+        "name": "Prifddinas",
+        "revenue": 50,
+        "tiers": 4,
+        "id": "336e3e39-ffa2-496b-bcc1-3c278e1652bf"
+    },
+    {
+        "name": "Karamja",
+        "revenue": 40,
+        "tiers": 4,
+        "id": "cf9b1d11-e92b-4cd0-bac6-a82aac77f276"
+    },
+    {
+        "name": "Relleka",
+        "revenue": 30,
+        "tiers": 4,
+        "id": "82289737-8390-40bd-82b9-196717998132"
+    },
+    {
+        "name": "River of Souls",
+        "revenue": 30,
+        "tiers": 4,
+        "id": "35e157a5-22d6-482a-8fdb-f47bb571846f"
+    },
+    {
+        "name": "Cam Torum",
+        "revenue": 25,
+        "tiers": 5,
+        "id": "286cc5f2-ec34-44a7-a124-a3b00d1cbf6a"
+    },
+    {
+        "name": "Tutorial Island",
+        "revenue": 20,
+        "tiers": 5,
+        "id": "1a56a4d6-e132-4d67-996e-a74ad4faaa54"
+    },
+    {
+        "name": "Colosseum",
+        "revenue": 100,
+        "tiers": 3,
+        "id": "3de0df15-10be-459a-8b87-63fcca37500d"
+    },
+    {
+        "name": "Civitas Illa Fortis",
+        "revenue": 100,
+        "tiers": 3,
+        "id": "dc4ce1f6-6186-4506-9038-ca5b34cefb50"
+    },
+    {
+        "name": "Saradomin's Encampment",
+        "revenue": 20,
+        "tiers": 5,
+        "id": "914a38a4-460f-4950-ad31-5af41fcae642"
+    },
+    {
+        "name": "Zamorak's Fortress",
+        "revenue": 20,
+        "tiers": 5,
+        "id": "f6ca4c23-8fd5-44d2-bb07-1305fb4bc196"
+    },
+    {
+        "name": "Armadyl's Eyrie",
+        "revenue": 20,
+        "tiers": 5,
+        "id": "50f7740b-1e48-4662-bda5-fb19d64f8506"
+    },
+    {
+        "name": "Bandos's Stronghold",
+        "revenue": 20,
+        "tiers": 5,
+        "id": "0e7c614e-23f6-47c6-aa38-7141f3dc34e8"
+    }
+]
